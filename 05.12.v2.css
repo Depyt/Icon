@@ -1,0 +1,38 @@
+.body{
+    background-color: rgba(140, 140, 140, 0.542);
+    width: 300px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+  
+}
+
+.butt{
+    margin-top: 3px;
+}
+
+.icons{
+    display: flex;
+    flex-direction: row;
+    font-size: 45px;
+    justify-content: space-between;
+    margin-top:10px ;
+}
+
+.you{
+    color: red
+}
+
+.inst{
+color: green;
+    
+}
+
+.twit{
+    color: rgb(0, 132, 255);
+}
+
+.face{
+    color: blue;
+}
